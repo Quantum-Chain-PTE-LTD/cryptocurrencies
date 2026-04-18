@@ -10207,6 +10207,31 @@
           "rating": "",
           "id": "erc20|0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
           "funds": []
+      },
+      {
+          "code": "QUANTUM",
+          "name": "Quantum Chain",
+          "categories": ["blockchain"],
+          "active": true,
+          "description": "### Project Description\n\nQuantum Chain is a compliance-focused, post-quantum native blockchain built on the Quantum Virtual Machine (QVM). The QVM is partially compatible with the EVM, allowing developers to leverage existing Solidity tooling while benefiting from quantum-resistant cryptographic primitives. Quantum Chain is designed for scalability, regulatory compliance, and long-term security in a post-quantum world.\n\n### Token Description\n\nQUANTUM is the native token of the Quantum Chain blockchain. It is used for transaction fees, staking, and governance within the network.\n\n### Token Emission\n\nQUANTUM has a capped supply with a deflationary emission schedule. New tokens are distributed to network validators through the proof-of-stake consensus mechanism.",
+          "links": {
+              "website": "https://www.quantumcha.in/",
+              "whitepaper": "",
+              "guide": "",
+              "twitter": "https://x.com/qntmchain",
+              "github": "",
+              "reddit": "",
+              "telegram": "https://t.me/qntmchainofficial"
+          },
+          "security": {
+              "privacy": "medium",
+              "decentralized": true,
+              "confiscation_resistance": true,
+              "censorship_resistance": true
+          },
+          "rating": "",
+          "id": "quantum-2",
+          "funds": []
       }
 
     ],

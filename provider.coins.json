@@ -28966,6 +28966,12 @@
             "external_id": { "coingecko": "quantum-resistant-ledger", "cryptocompare": "QRL" }
         },
         {
+            "id": "quantum",
+            "code": "quantum",
+            "name": "Quantum",
+            "external_id": { "coingecko": "quantum-2", "cryptocompare": "QUANTUM" }
+        },
+        {
             "id": "unsupported|quark",
             "code": "qrk",
             "name": "Quark",
