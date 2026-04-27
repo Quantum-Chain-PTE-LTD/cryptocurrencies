@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "ttlSeconds": 86400,
+  "coins": [
+    "quantum"
+  ]
+}
